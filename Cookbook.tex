@@ -4,16 +4,34 @@
 \include{./Resources/packages}
 \include{./Resources/settings}
 
-%Title and Author
-\title{Antonius' Cookbook}
-\author{Antonius Torode \\ Michigan State University \\ Department of Physics \& Astronomy}
-\date{Latest update: \today}
+%TITLE AND AUTHOR
+\title{{\huge \textbf{Antonius' Cookbook}} \\ \vspace{1cm}
+	%\includegraphics[scale =0.45]{./Images/CoverCropped.jpg}
+}
+\author{\textbf{Written and Compiled by: Antonius Torode} \\ \textbf{Michigan State University} \\ \textbf{Department of Physics \& Astronomy}}
+\date{\textbf{Latest update: \today}}
+
+
+\usepackage{transparent}
+\usepackage{eso-pic}
+\newcommand\BackgroundPic{%
+	\put(0,0){%
+		\parbox[b][\paperheight]{\paperwidth}{%
+			\vfill
+			\centering
+			{\transparent{0.3} \includegraphics[height=\paperheight,%
+				keepaspectratio]{./Images/Alfredo.png}}%
+			\vfill
+}}}
 
 
 \begin{document}
+	
+\AddToShipoutPicture*{\BackgroundPic}
 
 %BEGIN FRONT MATTER
 \frontmatter
+\clearpage
 \maketitle
 \include{./Resources/Copywrite}
 \tableofcontents
@@ -26,6 +44,7 @@
 
 %BEGIN MAIN MATTER
 \mainmatter
+asdasdasdasdasd
 
 %BEGIN BACKMATTER
 \backmatter
