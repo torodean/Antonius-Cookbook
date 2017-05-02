@@ -1,0 +1,10 @@
+\contentsline {chapter}{\numberline {1}Breakfasts}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Egg Sandwich}{2}{section.1.1}
+\contentsline {chapter}{\numberline {2}Lunches}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Spicy Mexican Soup}{4}{section.2.1}
+\contentsline {section}{\numberline {2.2}Mango Salsa Taco}{5}{section.2.2}
+\contentsline {chapter}{\numberline {3}Dinners}{7}{chapter.3}
+\contentsline {section}{\numberline {3.1}Calzone}{8}{section.3.1}
+\contentsline {chapter}{\numberline {4}Deserts}{9}{chapter.4}
+\contentsline {section}{\numberline {4.1}New York Cheesecake}{10}{section.4.1}
+\contentsline {section}{\numberline {4.2}Cheesecake Topping}{11}{section.4.2}

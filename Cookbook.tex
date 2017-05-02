@@ -11,23 +11,9 @@
 \author{\textbf{Written and Compiled by: Antonius Torode} \\ \textbf{Michigan State University} \\ \textbf{Department of Physics \& Astronomy}}
 \date{\textbf{Latest update: \today}}
 
-
-\usepackage{transparent}
-\usepackage{eso-pic}
-\newcommand\BackgroundPic{%
-	\put(0,0){%
-		\parbox[b][\paperheight]{\paperwidth}{%
-			\vfill
-			\centering
-			{\transparent{0.3} \includegraphics[height=\paperheight,%
-				keepaspectratio]{./Images/Alfredo.png}}%
-			\vfill
-}}}
-
-
 \begin{document}
 	
-\AddToShipoutPicture*{\BackgroundPic}
+\AddToShipoutPicture*{\CoverPic}
 
 %BEGIN FRONT MATTER
 \frontmatter
@@ -44,7 +30,19 @@
 
 %BEGIN MAIN MATTER
 \mainmatter
-asdasdasdasdasd
+\chapter{Breakfasts}
+\include{./Recipes/Breakfast/EggSandwich}
+
+\chapter{Lunches}
+\include{./Recipes/Lunch/MexicanSoup}
+\include{./Recipes/Lunch/MangoSalsaTaco}
+
+\chapter{Dinners}
+\include{./Recipes/Dinner/Calzone}
+
+\chapter{Deserts}
+\include{./Recipes/Desert/Cheesecake}
+\include{./Recipes/Desert/CheesecakeTopping}
 
 %BEGIN BACKMATTER
 \backmatter
