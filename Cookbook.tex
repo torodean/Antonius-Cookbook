@@ -1,21 +1,22 @@
-\documentclass[a4paper,11pt]{book}
+\documentclass[a5paper,11pt]{book}
 
 %Package and Settings Files
 \include{./Resources/packages}
 \include{./Resources/settings}
 
 %TITLE AND AUTHOR
-\title{{\huge \textbf{Antonius' Cookbook}} \\ \vspace{1cm}
+\title{{\huge \textbf{Antonius' Cookbook} \\ \textbf{Version -- \Version}} \\ \vspace{1cm}
 	%\includegraphics[scale =0.45]{./Images/CoverCropped.jpg}
 }
-\author{\textbf{Written and Compiled by: Antonius Torode} \\ \textbf{Michigan State University} \\ \textbf{Department of Physics \& Astronomy}}
-\date{\textbf{Latest update: \today}}
+\author{Written and Compiled by: Antonius Torode \\ Michigan State University \\ Department of Physics \& Astronomy}
+\date{Latest update: \today}
 
 \begin{document}
 	
 \AddToShipoutPicture*{\CoverPic}
 
 %BEGIN FRONT MATTER
+\setlength{\parindent}{0pt}
 \frontmatter
 \clearpage
 \maketitle
@@ -30,7 +31,8 @@
 
 %BEGIN MAIN MATTER
 \mainmatter
-\chapter{Breakfasts}
+\pagestyle{fancy}
+\include{./Resources/ChapterPages/Breakfasts}
 \include{./Recipes/Breakfast/EggSandwich}
 
 \chapter{Lunches}
