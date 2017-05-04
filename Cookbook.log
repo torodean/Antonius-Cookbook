@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.14)  4 MAY 2017 09:28
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.14)  4 MAY 2017 10:02
 entering extended mode
 **Cookbook.tex
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Cookbook.tex
@@ -806,8 +806,6 @@ Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Resources\settings.tex)
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Cookbook.aux
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Resources\Copywrite.aux)
-(C:\Users\torodean\Desktop\Antonius-Cookbook\Resources\ChapterPages\Breakfasts.
-aux)
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Breakfast\EggSandwich.aux)
 
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Breakfast\SpinachFetaEggs.
@@ -816,10 +814,12 @@ aux)
 ) (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Lunch\MexicanSoup.aux)
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Lunch\MangoSalsaTaco.aux)
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Lunch\StirFryRiceNoodle.au
-x) (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Dinner\Calzone.aux)
+x) (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Lunch\SteakSandwich.aux
+) (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Dinner\Calzone.aux)
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Dinner\Alfredo.aux)
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Dinner\MarinatedChickenAnd
 Veggies.aux)
+(C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Dinner\Lasagna.aux)
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Desert\Cheesecake.aux)
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Desert\CheesecakeTopping.a
 ux) (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Desert\AppleTart.aux))
@@ -912,14 +912,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 23.
 
-<./Images/CoverCropped.jpg, id=67, 480.29437pt x 542.025pt>
-File: ./Images/CoverCropped.jpg Graphic file (type jpg)
+<./Images/Strawberries.jpg, id=75, 2614.76875pt x 2456.17625pt>
+File: ./Images/Strawberries.jpg Graphic file (type jpg)
 
-<use ./Images/CoverCropped.jpg>
-Package pdftex.def Info: ./Images/CoverCropped.jpg used on input line 23.
-(pdftex.def)             Requested size: 748.83112pt x 845.04684pt.
+<use ./Images/Strawberries.jpg>
+Package pdftex.def Info: ./Images/Strawberries.jpg used on input line 23.
+(pdftex.def)             Requested size: 899.62253pt x 845.04684pt.
 
-Overfull \hbox (151.32324pt too wide) has occurred while \output is active
+Overfull \hbox (302.11465pt too wide) has occurred while \output is active
  [][][] 
  []
 
@@ -933,7 +933,7 @@ Overfull \hbox (151.32324pt too wide) has occurred while \output is active
 
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/torodean/Desktop
-/Antonius-Cookbook/Images/CoverCropped.jpg>]
+/Antonius-Cookbook/Images/Strawberries.jpg>]
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Resources\Copywrite.tex
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
 
@@ -963,16 +963,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 ] [4]
-(C:\Users\torodean\Desktop\Antonius-Cookbook\Resources\ChapterPages\Breakfasts.
-tex
 Chapter 1.
-) [1
-
+[1
 
 
 ]
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Breakfast\EggSandwich.tex)
-<./Images/EggSandwich.jpg, id=113, 551.81157pt x 542.025pt>
+<./Images/EggSandwich.jpg, id=123, 551.81157pt x 542.025pt>
 File: ./Images/EggSandwich.jpg Graphic file (type jpg)
 
 <use ./Images/EggSandwich.jpg>
@@ -985,10 +982,9 @@ Overfull \hbox (262.82637pt too wide) has occurred while \output is active
 
 [2
 
-
  <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/EggSandwich.jpg>]
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Breakfast\SpinachFetaEggs.
-tex) <./Images/FetaAndSpinachScrambledEggs.png, id=118, 405.515pt x 333.245pt>
+tex) <./Images/FetaAndSpinachScrambledEggs.png, id=128, 405.515pt x 333.245pt>
 File: ./Images/FetaAndSpinachScrambledEggs.png Graphic file (type png)
 
 <use ./Images/FetaAndSpinachScrambledEggs.png>
@@ -1006,7 +1002,7 @@ Overfull \hbox (430.97278pt too wide) has occurred while \output is active
  <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/FetaAndSpinachScrambledEgg
 s.png>]
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Breakfast\SteakAndEggs.tex
-) <./Images/SteakAndEggs.jpg, id=126, 963.6pt x 722.7pt>
+) <./Images/SteakAndEggs.jpg, id=136, 963.6pt x 722.7pt>
 File: ./Images/SteakAndEggs.jpg Graphic file (type jpg)
 
 <use ./Images/SteakAndEggs.jpg>
@@ -1026,7 +1022,7 @@ Chapter 2.
 
 
 ] (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Lunch\MexicanSoup.tex) <
-./Images/SpicyMexicanSoup.png, id=135, 597.23125pt x 595.22375pt>
+./Images/SpicyMexicanSoup.png, id=145, 597.23125pt x 595.22375pt>
 File: ./Images/SpicyMexicanSoup.png Graphic file (type png)
 
 <use ./Images/SpicyMexicanSoup.png>
@@ -1042,7 +1038,7 @@ Overfull \hbox (250.42973pt too wide) has occurred while \output is active
  <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/SpicyMexicanSoup.png (PNG 
 copy)>]
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Lunch\MangoSalsaTaco.tex)
-<./Images/MangeSalsaTacos.png, id=140, 597.23125pt x 593.21625pt>
+<./Images/MangeSalsaTacos.png, id=150, 597.23125pt x 593.21625pt>
 File: ./Images/MangeSalsaTacos.png Graphic file (type png)
 
 <use ./Images/MangeSalsaTacos.png>
@@ -1059,7 +1055,7 @@ Overfull \hbox (253.29121pt too wide) has occurred while \output is active
  <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/MangeSalsaTacos.png (PNG c
 opy)>]
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Lunch\StirFryRiceNoodle.te
-x) <./Images/StirFry_RiceNoodles.png, id=145, 602.25pt x 407.5225pt>
+x) <./Images/StirFry_RiceNoodles.png, id=155, 602.25pt x 407.5225pt>
 File: ./Images/StirFry_RiceNoodles.png Graphic file (type png)
 
 <use ./Images/StirFry_RiceNoodles.png>
@@ -1076,48 +1072,79 @@ Overfull \hbox (651.39322pt too wide) has occurred while \output is active
 
  <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/StirFry_RiceNoodles.png (P
 NG copy)>]
-Chapter 3.
+(C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Lunch\SteakSandwich.tex)
+<./Images/SteakSandwich.png, id=160, 481.04718pt x 640.64343pt>
+File: ./Images/SteakSandwich.png Graphic file (type png)
+
+<use ./Images/SteakSandwich.png>
+Package pdftex.def Info: ./Images/SteakSandwich.png used on input line 44.
+(pdftex.def)             Requested size: 634.54384pt x 845.04684pt.
+
+Overfull \hbox (37.03596pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
 [9
 
 
+ <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/SteakSandwich.png>]
+(C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Lunch\Pizza.tex)
+<./Images/Pizza.jpg, id=167, 3276.24pt x 2457.18pt>
+File: ./Images/Pizza.jpg Graphic file (type jpg)
+ <use ./Images/Pizza.jpg>
+Package pdftex.def Info: ./Images/Pizza.jpg used on input line 45.
+(pdftex.def)             Requested size: 1126.70468pt x 845.04684pt.
+
+Overfull \hbox (529.19681pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[10
+
+
+ <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/Pizza.jpg>]
+Chapter 3.
+[11
+
+
 ] (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Dinner\Calzone.tex)
-<./Images/Calzone.jpg, id=155, 653.44125pt x 722.7pt>
+<./Images/Calzone.jpg, id=177, 653.44125pt x 722.7pt>
 File: ./Images/Calzone.jpg Graphic file (type jpg)
 
 <use ./Images/Calzone.jpg>
-Package pdftex.def Info: ./Images/Calzone.jpg used on input line 46.
+Package pdftex.def Info: ./Images/Calzone.jpg used on input line 48.
 (pdftex.def)             Requested size: 764.07451pt x 845.04684pt.
 
 Overfull \hbox (166.56664pt too wide) has occurred while \output is active
  [][][] 
  []
 
-[10
+[12
 
  <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/Calzone.jpg>]
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Dinner\Alfredo.tex)
-<./Images/Alfredo.png, id=160, 597.23125pt x 596.2275pt>
+<./Images/Alfredo.png, id=182, 597.23125pt x 596.2275pt>
 File: ./Images/Alfredo.png Graphic file (type png)
 
 <use ./Images/Alfredo.png>
-Package pdftex.def Info: ./Images/Alfredo.png used on input line 47.
+Package pdftex.def Info: ./Images/Alfredo.png used on input line 49.
 (pdftex.def)             Requested size: 846.51598pt x 845.04684pt.
 
 Overfull \hbox (249.0081pt too wide) has occurred while \output is active
  [][][] 
  []
 
-[11
+[13
 
 
  <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/Alfredo.png (PNG copy)>]
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Dinner\MarinatedChickenAnd
 Veggies.tex)
-<./Images/chickenveggiesrice.jpg, id=165, 1023.07219pt x 868.74562pt>
+<./Images/chickenveggiesrice.jpg, id=187, 1023.07219pt x 868.74562pt>
 File: ./Images/chickenveggiesrice.jpg Graphic file (type jpg)
 
 <use ./Images/chickenveggiesrice.jpg>
-Package pdftex.def Info: ./Images/chickenveggiesrice.jpg used on input line 48.
+Package pdftex.def Info: ./Images/chickenveggiesrice.jpg used on input line 50.
 
 (pdftex.def)             Requested size: 995.22002pt x 845.04684pt.
 
@@ -1125,69 +1152,99 @@ Overfull \hbox (397.71214pt too wide) has occurred while \output is active
  [][][] 
  []
 
-[12
-
-
- <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/chickenveggiesrice.jpg>]
-Chapter 4.
-[13
-
-
-] (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Desert\Cheesecake.tex) <
-./Images/MarbledCheesecake.png, id=174, 597.23125pt x 376.40625pt>
-File: ./Images/MarbledCheesecake.png Graphic file (type png)
-
-<use ./Images/MarbledCheesecake.png>
-Package pdftex.def Info: ./Images/MarbledCheesecake.png used on input line 51.
-(pdftex.def)             Requested size: 1340.91463pt x 845.04684pt.
-
-Overfull \hbox (743.40675pt too wide) has occurred while \output is active
- [][][] 
- []
-
 [14
 
- <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/MarbledCheesecake.png (PNG
- copy)>]
-(C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Desert\CheesecakeTopping.t
-ex) <./Images/CheesecakeTopping.png, id=179, 455.7025pt x 358.33875pt>
-File: ./Images/CheesecakeTopping.png Graphic file (type png)
 
-<use ./Images/CheesecakeTopping.png>
-Package pdftex.def Info: ./Images/CheesecakeTopping.png used on input line 52.
-(pdftex.def)             Requested size: 1074.72539pt x 845.04684pt.
+ <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/chickenveggiesrice.jpg>] (
+C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Dinner\Lasagna.tex)
+<./Images/Lasagna.jpg, id=192, 3276.24pt x 2457.18pt>
+File: ./Images/Lasagna.jpg Graphic file (type jpg)
 
-Overfull \hbox (477.21751pt too wide) has occurred while \output is active
+<use ./Images/Lasagna.jpg>
+Package pdftex.def Info: ./Images/Lasagna.jpg used on input line 51.
+(pdftex.def)             Requested size: 1126.70468pt x 845.04684pt.
+
+Overfull \hbox (529.19681pt too wide) has occurred while \output is active
  [][][] 
  []
 
 [15
 
 
- <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/CheesecakeTopping.png>] (C
-:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Desert\AppleTart.tex)
-<./Images/AppleTartDesert.png, id=186, 592.2125pt x 593.21625pt>
-File: ./Images/AppleTartDesert.png Graphic file (type png)
+ <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/Lasagna.jpg>]
+(C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Dinner\VenisonBBQ.tex)
+<./Images/VenisonBBQSauce.jpg, id=198, 963.6pt x 722.7pt>
+File: ./Images/VenisonBBQSauce.jpg Graphic file (type jpg)
 
-<use ./Images/AppleTartDesert.png>
-Package pdftex.def Info: ./Images/AppleTartDesert.png used on input line 53.
-(pdftex.def)             Requested size: 843.64952pt x 845.04684pt.
+<use ./Images/VenisonBBQSauce.jpg>
+Package pdftex.def Info: ./Images/VenisonBBQSauce.jpg used on input line 52.
+(pdftex.def)             Requested size: 1126.74583pt x 845.04684pt.
 
-Overfull \hbox (246.14165pt too wide) has occurred while \output is active
+Overfull \hbox (529.23796pt too wide) has occurred while \output is active
  [][][] 
  []
 
 [16
 
 
+ <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/VenisonBBQSauce.jpg>]
+Chapter 4.
+[17
+
+
+] (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Desert\Cheesecake.tex) <
+./Images/MarbledCheesecake.png, id=208, 597.23125pt x 376.40625pt>
+File: ./Images/MarbledCheesecake.png Graphic file (type png)
+
+<use ./Images/MarbledCheesecake.png>
+Package pdftex.def Info: ./Images/MarbledCheesecake.png used on input line 55.
+(pdftex.def)             Requested size: 1340.91463pt x 845.04684pt.
+
+Overfull \hbox (743.40675pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[18
+
+ <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/MarbledCheesecake.png (PNG
+ copy)>]
+(C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Desert\CheesecakeTopping.t
+ex) <./Images/CheesecakeTopping.png, id=213, 455.7025pt x 358.33875pt>
+File: ./Images/CheesecakeTopping.png Graphic file (type png)
+
+<use ./Images/CheesecakeTopping.png>
+Package pdftex.def Info: ./Images/CheesecakeTopping.png used on input line 56.
+(pdftex.def)             Requested size: 1074.72539pt x 845.04684pt.
+
+Overfull \hbox (477.21751pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[19
+
+
+ <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/CheesecakeTopping.png>] (C
+:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Desert\AppleTart.tex)
+<./Images/AppleTartDesert.png, id=219, 592.2125pt x 593.21625pt>
+File: ./Images/AppleTartDesert.png Graphic file (type png)
+
+<use ./Images/AppleTartDesert.png>
+Package pdftex.def Info: ./Images/AppleTartDesert.png used on input line 57.
+(pdftex.def)             Requested size: 843.64952pt x 845.04684pt.
+
+Overfull \hbox (246.14165pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[20
+
+
  <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/AppleTartDesert.png (PNG c
 opy)>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 59.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 59.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 63.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 63.
  (C:\Users\torodean\Desktop\Antonius-Cookbook\Cookbook.aux
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Resources\Copywrite.aux)
-(C:\Users\torodean\Desktop\Antonius-Cookbook\Resources\ChapterPages\Breakfasts.
-aux)
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Breakfast\EggSandwich.aux)
 
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Breakfast\SpinachFetaEggs.
@@ -1196,23 +1253,33 @@ aux)
 ) (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Lunch\MexicanSoup.aux)
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Lunch\MangoSalsaTaco.aux)
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Lunch\StirFryRiceNoodle.au
-x) (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Dinner\Calzone.aux)
+x) (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Lunch\SteakSandwich.aux
+) (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Lunch\Pizza.aux)
+(C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Dinner\Calzone.aux)
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Dinner\Alfredo.aux)
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Dinner\MarinatedChickenAnd
 Veggies.aux)
+(C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Dinner\Lasagna.aux)
+(C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Dinner\VenisonBBQ.aux)
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Desert\Cheesecake.aux)
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Desert\CheesecakeTopping.a
 ux) (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Desert\AppleTart.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 59.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 59.
-Package rerunfilecheck Info: File `Cookbook.out' has not changed.
-(rerunfilecheck)             Checksum: 63DC48ECD0C3F40646E40D2A28BA1BEC;1003.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 63.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 63.
+
+Package rerunfilecheck Warning: File `Cookbook.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Cookbook.out':
+(rerunfilecheck)             Before: 5232CB93A7AC61622623F40D0EB8D2D3;1151
+(rerunfilecheck)             After:  310AB4AFE8B0B5F148F6B802F8528CDE;1305.
  ) 
 Here is how much of TeX's memory you used:
- 15750 strings out of 493921
- 284573 string characters out of 3147272
- 352933 words of memory out of 3000000
- 18751 multiletter control sequences out of 15000+200000
+ 15794 strings out of 493921
+ 286058 string characters out of 3147272
+ 353726 words of memory out of 3000000
+ 18774 multiletter control sequences out of 15000+200000
  10983 words of font info for 38 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  43i,13n,45p,10449b,341s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1223,9 +1290,9 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
 ublic/amsfonts/cm/cmsy9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmti10.pfb>
-Output written on Cookbook.pdf (20 pages, 4250906 bytes).
+Output written on Cookbook.pdf (24 pages, 11545178 bytes).
 PDF statistics:
- 226 PDF objects out of 1000 (max. 8388607)
- 38 named destinations out of 1000 (max. 500000)
- 194 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 260 PDF objects out of 1000 (max. 8388607)
+ 46 named destinations out of 1000 (max. 500000)
+ 230 words of extra memory for PDF output out of 10000 (max. 10000000)
 
