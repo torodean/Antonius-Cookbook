@@ -15,7 +15,7 @@
 \contentsline {section}{\numberline {3.4}Ground Beef Lasagna}{15}{section.3.4}
 \contentsline {section}{\numberline {3.5}Venison with Homemade Barbecue Sauce}{16}{section.3.5}
 \contentsline {chapter}{\numberline {4}Snacks}{17}{chapter.4}
-\contentsline {section}{\numberline {4.1}Fruit Medley}{18}{section.4.1}
+\contentsline {section}{\numberline {4.1}Fruit Medley (A real Fruit Salad)}{18}{section.4.1}
 \contentsline {section}{\numberline {4.2}Lemon Poppyseed Muffins}{19}{section.4.2}
 \contentsline {section}{\numberline {4.3}Tortilla Chips}{20}{section.4.3}
 \contentsline {chapter}{\numberline {5}Sides \& Toppings}{21}{chapter.5}
