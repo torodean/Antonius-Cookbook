@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.5.16)  18 MAY 2017 11:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.5.16)  18 MAY 2017 11:10
 entering extended mode
 **./Cookbook.tex
 (Cookbook.tex
@@ -1516,7 +1516,7 @@ Package rerunfilecheck Info: File `Cookbook.out' has not changed.
 Here is how much of TeX's memory you used:
  16388 strings out of 493333
  292489 string characters out of 3139185
- 383353 words of memory out of 3000000
+ 383354 words of memory out of 3000000
  19538 multiletter control sequences out of 15000+200000
  11290 words of font info for 39 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
