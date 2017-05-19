@@ -18,6 +18,7 @@
 \contentsline {section}{\numberline {4.1}Fruit Medley (A real Fruit Salad)}{18}{section.4.1}
 \contentsline {section}{\numberline {4.2}Lemon Poppyseed Muffins}{19}{section.4.2}
 \contentsline {section}{\numberline {4.3}Tortilla Chips}{20}{section.4.3}
+\contentsline {section}{\numberline {4.4}Mexican Spinach Dip}{20}{section.4.4}
 \contentsline {chapter}{\numberline {5}Sides \& Toppings}{21}{chapter.5}
 \contentsline {section}{\numberline {5.1}Mango Salsa}{22}{section.5.1}
 \contentsline {section}{\numberline {5.2}Cheesecake Topping}{23}{section.5.2}
