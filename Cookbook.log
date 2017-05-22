@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.14)  22 MAY 2017 10:47
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.14)  22 MAY 2017 11:51
 entering extended mode
 **Cookbook.tex
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Cookbook.tex
@@ -1410,10 +1410,10 @@ Package rerunfilecheck Info: File `Cookbook.out' has not changed.
 (rerunfilecheck)             Checksum: 97402EC30B62AFE94401F36FEDD9F129;1866.
  ) 
 Here is how much of TeX's memory you used:
- 15925 strings out of 493921
- 290870 string characters out of 3147272
- 362169 words of memory out of 3000000
- 18843 multiletter control sequences out of 15000+200000
+ 15926 strings out of 493921
+ 290885 string characters out of 3147272
+ 362260 words of memory out of 3000000
+ 18844 multiletter control sequences out of 15000+200000
  11290 words of font info for 39 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  43i,13n,45p,10449b,341s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1428,7 +1428,7 @@ cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Cookbook.pdf (32 pages, 18103623 bytes).
+Output written on Cookbook.pdf (32 pages, 18104879 bytes).
 PDF statistics:
  384 PDF objects out of 1000 (max. 8388607)
  65 named destinations out of 1000 (max. 500000)
