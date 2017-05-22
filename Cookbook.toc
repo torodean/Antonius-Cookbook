@@ -7,7 +7,7 @@
 \contentsline {section}{\numberline {2.2}Mango Salsa Taco}{7}{section.2.2}
 \contentsline {section}{\numberline {2.3}Vegetable Stir Fry With Rice Noodles}{8}{section.2.3}
 \contentsline {section}{\numberline {2.4}Steak Sandwich with Tomato Relish}{9}{section.2.4}
-\contentsline {section}{\numberline {2.5}Fresh and Simple Pizza}{10}{section.2.5}
+\contentsline {section}{\numberline {2.5}Fresh and Simple Pizzas}{10}{section.2.5}
 \contentsline {chapter}{\numberline {3}Dinners}{11}{chapter.3}
 \contentsline {section}{\numberline {3.1}Calzone}{12}{section.3.1}
 \contentsline {section}{\numberline {3.2}Alfredo}{13}{section.3.2}
