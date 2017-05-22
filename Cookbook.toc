@@ -25,5 +25,5 @@
 \contentsline {section}{\numberline {5.3}Fruit Toppings}{24}{section.5.3}
 \contentsline {chapter}{\numberline {6}Deserts}{25}{chapter.6}
 \contentsline {section}{\numberline {6.1}New York Cheesecake}{26}{section.6.1}
-\contentsline {section}{\numberline {6.2}Warm Apple Tart With Vanilla Ice Cream}{27}{section.6.2}
-\contentsline {section}{\numberline {6.3}Chocolate Covered Fruit}{28}{section.6.3}
+\contentsline {section}{\numberline {6.2}Warm Apple Tart With Ice Cream}{27}{section.6.2}
+\contentsline {section}{\numberline {6.3}Chocolate Ganache}{28}{section.6.3}

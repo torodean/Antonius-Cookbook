@@ -31,6 +31,6 @@ CheesecakeTopping
 FruitTopping
 
 \chapter{Deserts}
-\include{./Recipes/Desert/Cheesecake}
-\include{./Recipes/Desert/AppleTart}
-\include{./Recipes/Desert/ChocolateFruit}
+Cheesecake
+AppleTart
+ChocolateFruit

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.14)  22 MAY 2017 09:02
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.14)  22 MAY 2017 10:13
 entering extended mode
 **Cookbook.tex
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Cookbook.tex
@@ -1340,7 +1340,7 @@ Overfull \hbox (743.40675pt too wide) has occurred while \output is active
  <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/MarbledCheesecake.png (PNG
  copy)>]
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Desert\AppleTart.tex)
-<./Images/AppleTartDesert.png, id=317, 592.2125pt x 593.21625pt>
+<./Images/AppleTartDesert.png, id=318, 592.2125pt x 593.21625pt>
 File: ./Images/AppleTartDesert.png Graphic file (type png)
 
 <use ./Images/AppleTartDesert.png>
@@ -1357,7 +1357,7 @@ Overfull \hbox (246.14165pt too wide) has occurred while \output is active
  <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/AppleTartDesert.png (PNG c
 opy)>]
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Desert\ChocolateFruit.tex)
-<./Images/Strawberries.jpg, id=323, 2614.76875pt x 2456.17625pt>
+<./Images/Strawberries.jpg, id=325, 2614.76875pt x 2456.17625pt>
 File: ./Images/Strawberries.jpg Graphic file (type jpg)
 
 <use ./Images/Strawberries.jpg>
@@ -1407,13 +1407,13 @@ ux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 73.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 73.
 Package rerunfilecheck Info: File `Cookbook.out' has not changed.
-(rerunfilecheck)             Checksum: 14765344A8ED4F8384ED06D9F294D759;1880.
+(rerunfilecheck)             Checksum: 97402EC30B62AFE94401F36FEDD9F129;1866.
  ) 
 Here is how much of TeX's memory you used:
- 15923 strings out of 493921
- 290850 string characters out of 3147272
- 362066 words of memory out of 3000000
- 18841 multiletter control sequences out of 15000+200000
+ 15925 strings out of 493921
+ 290870 string characters out of 3147272
+ 362169 words of memory out of 3000000
+ 18843 multiletter control sequences out of 15000+200000
  11290 words of font info for 39 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  43i,13n,45p,10449b,341s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1428,9 +1428,9 @@ cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Cookbook.pdf (32 pages, 18099731 bytes).
+Output written on Cookbook.pdf (32 pages, 18103171 bytes).
 PDF statistics:
- 382 PDF objects out of 1000 (max. 8388607)
+ 384 PDF objects out of 1000 (max. 8388607)
  65 named destinations out of 1000 (max. 500000)
  353 words of extra memory for PDF output out of 10000 (max. 10000000)
 
