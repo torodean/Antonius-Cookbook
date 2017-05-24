@@ -1,4 +1,4 @@
-\newcommand{\Version}{0.100}
+\newcommand{\Version}{1.000}
 
 %%% Page formatting
 %\setlength{\headsep}{30pt}
@@ -22,14 +22,9 @@
 \patchcmd{\chapter}{plain}{empty}{}{}
 \titleformat{\chapter}[display]
 {\normalfont\huge\bfseries}{}{0pt}{\Huge}
-\titlespacing*{\chapter} {0pt}{-50pt}{10pt}
+\titlespacing*{\chapter} {0pt}{0pt}{10pt}
 
-%re-defines the plain page style
-\fancypagestyle{plain}{%
-	\fancyhf{}
-	\rhead{\thepage}
-	\renewcommand{\headrulewidth}{0pt}}
-
+%FRUITBOWL
 \newcommand\FruitBowl{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -40,6 +35,29 @@
 			\vfill
 }}}
 
+%STEAK
+\newcommand\Steak{%
+	\put(0,0){%
+		\parbox[b][\paperheight]{\paperwidth}{%
+			\vfill
+			\centering
+			{\transparent{0.3} \includegraphics[height=\paperheight,
+				keepaspectratio]{./Images/Steak.jpg}}%
+			\vfill
+}}}
+
+%APPLETARTLARGE
+\newcommand\AppleTartLarge{%
+	\put(0,0){%
+		\parbox[b][\paperheight]{\paperwidth}{%
+			\vfill
+			\centering
+			{\transparent{0.3} \includegraphics[height=\paperheight,
+				keepaspectratio]{./Images/AppleTartLarge.jpg}}%
+			\vfill
+}}}
+
+%STRAWBERRIES
 \newcommand\Strawberries{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -50,6 +68,18 @@
 			\vfill
 }}}
 
+%SALMONVEGETABLERICE
+\newcommand\SalmonVegetableRice{%
+	\put(0,0){%
+		\parbox[b][\paperheight]{\paperwidth}{%
+			\vfill
+			\centering
+			{\transparent{0.3} \includegraphics[height=\paperheight,%
+				keepaspectratio]{./Images/SalmonVegetableRice.jpg}}%
+			\vfill
+}}}
+
+%CHEESECAKE
 \newcommand\Cheesecake{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -60,6 +90,7 @@
 			\vfill
 }}}
 
+%CHICKENSALAD
 \newcommand\ChickenSalad{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -70,6 +101,7 @@
 			\vfill
 }}}
 
+%MEXICANSOUP
 \newcommand\MexicanSoup{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -80,6 +112,7 @@
 			\vfill
 }}}
 
+%CALZONE
 \newcommand\Calzone{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -90,6 +123,7 @@
 			\vfill
 }}}
 
+%CHEESECAKETOPPING
 \newcommand\CheesecakeTopping{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -100,6 +134,7 @@
 			\vfill
 }}}
 
+%MANGOSALSATACO
 \newcommand\MangoSalsaTaco{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -110,6 +145,7 @@
 			\vfill
 }}}
 
+%EGGSANDWICH
 \newcommand\EggSandwich{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -120,6 +156,7 @@
 			\vfill
 }}}
 
+%APPLETART
 \newcommand\AppleTart{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -130,6 +167,7 @@
 			\vfill
 }}}
 
+%MARINATEDCHICKENANDRICE
 \newcommand\MarinatedChickenAndRice{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -140,6 +178,7 @@
 			\vfill
 }}}
 
+%FETASPINACHEGGS
 \newcommand\FetaSpinachEggs{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -150,6 +189,7 @@
 			\vfill
 }}}
 
+%STIRFRYRICENOODLES
 \newcommand\StirFryRiceNoodles{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -160,6 +200,7 @@
 			\vfill
 }}}
 
+%ALFREDO
 \newcommand\Alfredo{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -170,6 +211,7 @@
 			\vfill
 }}}
 
+%STEAKANDEGGS
 \newcommand\SteakAndEggs{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -180,7 +222,8 @@
 			\vfill
 }}}
 
-\newcommand\SteakSandwhich{%
+%STEAKSANDWICH
+\newcommand\SteakSandwich{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
 			\vfill
@@ -190,6 +233,7 @@
 			\vfill
 }}}
 
+%PIZZA
 \newcommand\Pizza{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -200,6 +244,7 @@
 			\vfill
 }}}
 
+%LASAGNA
 \newcommand\Lasagna{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -210,6 +255,7 @@
 			\vfill
 }}}
 
+%VENISONBBQ
 \newcommand\VenisonBBQ{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -220,6 +266,7 @@
 			\vfill
 }}}
 
+%MANGOSALSA
 \newcommand\MangoSalsa{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -230,6 +277,7 @@
 			\vfill
 }}}
 
+%FRUITMEDLEY
 \newcommand\FruitMedley{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -240,6 +288,7 @@
 			\vfill
 }}}
 
+%TORTILLACHIPS
 \newcommand\TortillaChips{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -250,6 +299,7 @@
 			\vfill
 }}}
 
+%FRUITTOPPING
 \newcommand\FruitTopping{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -260,6 +310,7 @@
 			\vfill
 }}}
 
+%LEMONPOPPYSEED
 \newcommand\LemonPoppyseed{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -270,6 +321,7 @@
 			\vfill
 }}}
 
+%TOWERGARDEN
 \newcommand\TowerGarden{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -280,6 +332,7 @@
 			\vfill
 }}}
 
+%SAFFRONICECREAM
 \newcommand\SaffronIceCream{%
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
@@ -290,7 +343,10 @@
 			\vfill
 }}}
 
+%STRAWBERRYSALAD
 \newcommand\StrawberrySalad{%
+
+
 	\put(0,0){%
 		\parbox[b][\paperheight]{\paperwidth}{%
 			\vfill

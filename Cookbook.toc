@@ -19,7 +19,7 @@
 \contentsline {section}{\numberline {4.4}Mexican Spinach Dip}{18}{section.4.4}
 \contentsline {section}{\numberline {4.5}Mango Salsa}{19}{section.4.5}
 \contentsline {section}{\numberline {4.6}Strawberry Pecan Side Salad}{20}{section.4.6}
-\contentsline {chapter}{\numberline {5}Deserts}{21}{chapter.5}
+\contentsline {chapter}{\numberline {5}Desserts \& Sweets}{21}{chapter.5}
 \contentsline {section}{\numberline {5.1}New York Cheesecake}{22}{section.5.1}
 \contentsline {section}{\numberline {5.2}Warm Apple Tart With Ice Cream}{23}{section.5.2}
 \contentsline {section}{\numberline {5.3}Chocolate Ganache}{24}{section.5.3}
