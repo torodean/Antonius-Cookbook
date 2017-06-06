@@ -12,16 +12,18 @@
 \contentsline {section}{\numberline {3.3}Marinated Chicken And Vegetables on a Bed of Rice}{12}{section.3.3}
 \contentsline {section}{\numberline {3.4}Ground Beef Lasagna}{13}{section.3.4}
 \contentsline {section}{\numberline {3.5}Venison with Homemade Barbecue Sauce}{14}{section.3.5}
-\contentsline {chapter}{\numberline {4}Snacks, Sides \& Toppings}{15}{chapter.4}
-\contentsline {section}{\numberline {4.1}Fruit Medley (A real Fruit Salad)}{16}{section.4.1}
-\contentsline {section}{\numberline {4.2}Lemon Poppyseed Muffins}{17}{section.4.2}
-\contentsline {section}{\numberline {4.3}Tortilla Chips}{18}{section.4.3}
-\contentsline {section}{\numberline {4.4}Mexican Spinach Dip}{18}{section.4.4}
-\contentsline {section}{\numberline {4.5}Mango Salsa}{19}{section.4.5}
-\contentsline {section}{\numberline {4.6}Strawberry Pecan Side Salad}{20}{section.4.6}
-\contentsline {chapter}{\numberline {5}Desserts \& Sweets}{21}{chapter.5}
-\contentsline {section}{\numberline {5.1}New York Cheesecake}{22}{section.5.1}
-\contentsline {section}{\numberline {5.2}Warm Apple Tart With Ice Cream}{23}{section.5.2}
-\contentsline {section}{\numberline {5.3}Chocolate Ganache}{24}{section.5.3}
-\contentsline {section}{\numberline {5.4}Saffron Cardamom Ice Cream}{25}{section.5.4}
-\contentsline {section}{\numberline {5.5}Cheesecake Topping}{26}{section.5.5}
+\contentsline {section}{\numberline {3.6}Blackened Salmon on a Bed of Fresh Mixed Greens}{15}{section.3.6}
+\contentsline {section}{\numberline {3.7}Quinoa Patties with Tomato Relish}{16}{section.3.7}
+\contentsline {chapter}{\numberline {4}Snacks, Sides \& Toppings}{17}{chapter.4}
+\contentsline {section}{\numberline {4.1}Fruit Medley (A real Fruit Salad)}{18}{section.4.1}
+\contentsline {section}{\numberline {4.2}Lemon Poppyseed Muffins}{19}{section.4.2}
+\contentsline {section}{\numberline {4.3}Tortilla Chips}{20}{section.4.3}
+\contentsline {section}{\numberline {4.4}Mexican Spinach Dip}{20}{section.4.4}
+\contentsline {section}{\numberline {4.5}Mango Salsa}{21}{section.4.5}
+\contentsline {section}{\numberline {4.6}Strawberry Pecan Side Salad}{22}{section.4.6}
+\contentsline {chapter}{\numberline {5}Desserts \& Sweets}{23}{chapter.5}
+\contentsline {section}{\numberline {5.1}New York Cheesecake}{24}{section.5.1}
+\contentsline {section}{\numberline {5.2}Warm Apple Tart With Ice Cream}{25}{section.5.2}
+\contentsline {section}{\numberline {5.3}Chocolate Ganache}{26}{section.5.3}
+\contentsline {section}{\numberline {5.4}Saffron Cardamom Ice Cream}{27}{section.5.4}
+\contentsline {section}{\numberline {5.5}Cheesecake Topping}{28}{section.5.5}
