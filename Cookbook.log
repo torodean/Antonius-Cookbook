@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.14)  6 JUN 2017 09:32
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.11.14)  12 JUN 2017 08:53
 entering extended mode
 **Cookbook.tex
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Cookbook.tex
@@ -1298,14 +1298,14 @@ Overfull \hbox (529.32619pt too wide) has occurred while \output is active
 
  <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/FruitMedley.jpg>]
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Snacks\LemonPoppyseed.tex)
-<./Images/LemonPoppyseed.jpg, id=289, 539.01375pt x 572.1375pt>
+<./Images/LemonPoppyseed.jpg, id=289, 2186.1675pt x 1842.885pt>
 File: ./Images/LemonPoppyseed.jpg Graphic file (type jpg)
 
 <use ./Images/LemonPoppyseed.jpg>
 Package pdftex.def Info: ./Images/LemonPoppyseed.jpg used on input line 63.
-(pdftex.def)             Requested size: 796.13226pt x 845.04684pt.
+(pdftex.def)             Requested size: 1002.44688pt x 845.04684pt.
 
-Overfull \hbox (198.62439pt too wide) has occurred while \output is active
+Overfull \hbox (404.93901pt too wide) has occurred while \output is active
  [][][] 
  []
 
@@ -1397,7 +1397,7 @@ Overfull \hbox (743.40675pt too wide) has occurred while \output is active
  <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/MarbledCheesecake.png (PNG
  copy)>]
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Dessert\AppleTart.tex)
-<./Images/AppleTartDesert.png, id=323, 592.2125pt x 593.21625pt>
+<./Images/AppleTartDesert.png, id=324, 592.2125pt x 593.21625pt>
 File: ./Images/AppleTartDesert.png Graphic file (type png)
 
 <use ./Images/AppleTartDesert.png>
@@ -1414,7 +1414,7 @@ Overfull \hbox (246.14165pt too wide) has occurred while \output is active
  <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/AppleTartDesert.png (PNG c
 opy)>]
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Dessert\ChocolateFruit.tex
-) <./Images/Strawberries.jpg, id=329, 2614.76875pt x 2456.17625pt>
+) <./Images/Strawberries.jpg, id=330, 2614.76875pt x 2456.17625pt>
 File: ./Images/Strawberries.jpg Graphic file (type jpg)
 
 <use ./Images/Strawberries.jpg>
@@ -1430,7 +1430,7 @@ Overfull \hbox (302.11465pt too wide) has occurred while \output is active
 
  <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/Strawberries.jpg>]
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Dessert\SaffronIceCream.te
-x) <./Images/SaffronIceCream.jpg, id=334, 2156.055pt x 1436.36626pt>
+x) <./Images/SaffronIceCream.jpg, id=335, 2156.055pt x 1436.36626pt>
 File: ./Images/SaffronIceCream.jpg Graphic file (type jpg)
 
 <use ./Images/SaffronIceCream.jpg>
@@ -1446,7 +1446,7 @@ Overfull \hbox (670.96762pt too wide) has occurred while \output is active
 
  <C:/Users/torodean/Desktop/Antonius-Cookbook/Images/SaffronIceCream.jpg>]
 (C:\Users\torodean\Desktop\Antonius-Cookbook\Recipes\Dessert\CheesecakeTopping.
-tex) <./Images/CheesecakeTopping.png, id=340, 455.7025pt x 358.33875pt>
+tex) <./Images/CheesecakeTopping.png, id=341, 455.7025pt x 358.33875pt>
 File: ./Images/CheesecakeTopping.png Graphic file (type png)
 
 <use ./Images/CheesecakeTopping.png>
@@ -1521,9 +1521,9 @@ cmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Prog
 ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Cookbook.pdf (32 pages, 26188390 bytes).
+Output written on Cookbook.pdf (32 pages, 27751039 bytes).
 PDF statistics:
- 401 PDF objects out of 1000 (max. 8388607)
+ 402 PDF objects out of 1000 (max. 8388607)
  70 named destinations out of 1000 (max. 500000)
  383 words of extra memory for PDF output out of 10000 (max. 10000000)
 
