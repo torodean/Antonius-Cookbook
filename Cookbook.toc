@@ -23,7 +23,8 @@
 \contentsline {section}{\numberline {4.6}Strawberry Pecan Side Salad}{22}{section.4.6}
 \contentsline {chapter}{\numberline {5}Desserts \& Sweets}{23}{chapter.5}
 \contentsline {section}{\numberline {5.1}New York Cheesecake}{24}{section.5.1}
-\contentsline {section}{\numberline {5.2}Warm Apple Tart With Ice Cream}{25}{section.5.2}
-\contentsline {section}{\numberline {5.3}Chocolate Ganache}{26}{section.5.3}
-\contentsline {section}{\numberline {5.4}Saffron Cardamom Ice Cream}{27}{section.5.4}
-\contentsline {section}{\numberline {5.5}Cheesecake Topping}{28}{section.5.5}
+\contentsline {section}{\numberline {5.2}Berry De Casis Cheesecake Topping}{24}{section.5.2}
+\contentsline {section}{\numberline {5.3}Warm Apple Tart With Ice Cream}{25}{section.5.3}
+\contentsline {section}{\numberline {5.4}Chocolate Ganache}{26}{section.5.4}
+\contentsline {section}{\numberline {5.5}Saffron Cardamom Ice Cream}{27}{section.5.5}
+\contentsline {section}{\numberline {5.6}Cinnamon Apple Pastry}{28}{section.5.6}
