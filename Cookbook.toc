@@ -16,17 +16,21 @@
 \contentsline {section}{\numberline {3.5}Venison with Homemade Barbecue Sauce}{16}{section.3.5}
 \contentsline {section}{\numberline {3.6}Blackened Salmon on a Bed of Fresh Mixed Greens}{17}{section.3.6}
 \contentsline {section}{\numberline {3.7}Quinoa Patties with Tomato Relish}{18}{section.3.7}
-\contentsline {chapter}{\numberline {4}Snacks, Sides \& Toppings}{19}{chapter.4}
-\contentsline {section}{\numberline {4.1}Fruit Medley (A real Fruit Salad)}{20}{section.4.1}
-\contentsline {section}{\numberline {4.2}Lemon Poppyseed Muffins}{21}{section.4.2}
-\contentsline {section}{\numberline {4.3}Tortilla Chips}{22}{section.4.3}
-\contentsline {section}{\numberline {4.4}Mexican Spinach Dip}{22}{section.4.4}
-\contentsline {section}{\numberline {4.5}Mango Salsa}{23}{section.4.5}
-\contentsline {section}{\numberline {4.6}Strawberry Pecan Side Salad}{24}{section.4.6}
-\contentsline {chapter}{\numberline {5}Desserts \& Sweets}{25}{chapter.5}
-\contentsline {section}{\numberline {5.1}New York Cheesecake}{26}{section.5.1}
-\contentsline {section}{\numberline {5.2}Berry De Casis Cheesecake Topping}{26}{section.5.2}
-\contentsline {section}{\numberline {5.3}Warm Apple Tart With Ice Cream}{27}{section.5.3}
-\contentsline {section}{\numberline {5.4}Chocolate Ganache}{28}{section.5.4}
-\contentsline {section}{\numberline {5.5}Saffron Cardamom Ice Cream}{29}{section.5.5}
-\contentsline {section}{\numberline {5.6}Cinnamon Apple Pastry}{30}{section.5.6}
+\contentsline {section}{\numberline {3.8}Bison Burger}{19}{section.3.8}
+\contentsline {section}{\numberline {3.9}Roasted Turkey}{20}{section.3.9}
+\contentsline {chapter}{\numberline {4}Snacks, Sides \& Toppings}{21}{chapter.4}
+\contentsline {section}{\numberline {4.1}Fruit Medley (A real Fruit Salad)}{22}{section.4.1}
+\contentsline {section}{\numberline {4.2}Lemon Poppyseed Muffins}{23}{section.4.2}
+\contentsline {section}{\numberline {4.3}Tortilla Chips}{24}{section.4.3}
+\contentsline {section}{\numberline {4.4}Mexican Spinach Dip}{24}{section.4.4}
+\contentsline {section}{\numberline {4.5}Mango Salsa}{25}{section.4.5}
+\contentsline {section}{\numberline {4.6}Strawberry Pecan Side Salad}{26}{section.4.6}
+\contentsline {section}{\numberline {4.7}Tuna Fish Pate}{27}{section.4.7}
+\contentsline {section}{\numberline {4.8}Cranberry Sauce}{28}{section.4.8}
+\contentsline {chapter}{\numberline {5}Desserts \& Sweets}{29}{chapter.5}
+\contentsline {section}{\numberline {5.1}New York Cheesecake}{30}{section.5.1}
+\contentsline {section}{\numberline {5.2}Berry De Casis Cheesecake Topping}{30}{section.5.2}
+\contentsline {section}{\numberline {5.3}Warm Apple Tart With Ice Cream}{31}{section.5.3}
+\contentsline {section}{\numberline {5.4}Chocolate Ganache}{32}{section.5.4}
+\contentsline {section}{\numberline {5.5}Saffron Cardamom Ice Cream}{33}{section.5.5}
+\contentsline {section}{\numberline {5.6}Cinnamon Apple Pastry}{34}{section.5.6}

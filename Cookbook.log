@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.10.6)  13 NOV 2017 13:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.10.6)  27 NOV 2017 14:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -897,9 +897,11 @@ Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 (./Recipes/Dinner/Alfredo.aux) (./Recipes/Dinner/MarinatedChickenAndVeggies.aux
 ) (./Recipes/Dinner/Lasagna.aux) (./Recipes/Dinner/VenisonBBQ.aux)
 (./Recipes/Dinner/SalmonSalad.aux) (./Recipes/Dinner/QuinoaPatties.aux)
+(./Recipes/Dinner/BisonBurgers.aux) (./Recipes/Dinner/RoastTurkey.aux)
 (./Chapters/Snacks.aux) (./Recipes/Snacks/FruitMedley.aux)
 (./Recipes/Snacks/LemonPoppyseed.aux) (./Recipes/Snacks/TortillaChips.aux)
 (./Recipes/Snacks/MangoSalsa.aux) (./Recipes/Snacks/StrawberrySalad.aux)
+(./Recipes/Snacks/TunafishPate.aux) (./Recipes/Snacks/Cranberries.aux)
 (./Chapters/Desserts.aux) (./Recipes/Dessert/Cheesecake.aux)
 (./Recipes/Dessert/AppleTart.aux) (./Recipes/Dessert/ChocolateFruit.aux)
 (./Recipes/Dessert/SaffronIceCream.aux)
@@ -1011,7 +1013,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 23.
 
-<./Images/ChickenSalad.jpg, id=132, 2668.97125pt x 2457.18pt>
+<./Images/ChickenSalad.jpg, id=148, 2668.97125pt x 2457.18pt>
 File: ./Images/ChickenSalad.jpg Graphic file (type jpg)
 
 <use ./Images/ChickenSalad.jpg>
@@ -1052,7 +1054,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--43
 
  []
 
-<./Images/TowerGarden.jpg, id=140, 2457.18pt x 3276.24pt>
+<./Images/TowerGarden.jpg, id=156, 2457.18pt x 3276.24pt>
 File: ./Images/TowerGarden.jpg Graphic file (type jpg)
 
 <use ./Images/TowerGarden.jpg>
@@ -1082,7 +1084,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 (./Chapters/Breakfasts.tex
 Chapter 1.
-) <./Images/SteakAndEggs.jpg, id=194, 963.6pt x 722.7pt>
+) <./Images/SteakAndEggs.jpg, id=214, 963.6pt x 722.7pt>
 File: ./Images/SteakAndEggs.jpg Graphic file (type jpg)
 
 <use ./Images/SteakAndEggs.jpg>
@@ -1104,7 +1106,7 @@ Overfull \hbox (529.23796pt too wide) has occurred while \output is active
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
 )
-<./Images/EggSandwich.jpg, id=204, 551.81157pt x 542.025pt>
+<./Images/EggSandwich.jpg, id=224, 551.81157pt x 542.025pt>
 File: ./Images/EggSandwich.jpg Graphic file (type jpg)
 
 <use ./Images/EggSandwich.jpg>
@@ -1122,7 +1124,7 @@ Overfull \hbox (262.82637pt too wide) has occurred while \output is active
 \openout2 = `./Recipes/Breakfast/LambSausages.aux'.
 
  (./Recipes/Breakfast/LambSausages.tex)
-<./Images/lambsausage.jpg, id=212, 963.6pt x 722.7pt>
+<./Images/lambsausage.jpg, id=232, 963.6pt x 722.7pt>
 File: ./Images/lambsausage.jpg Graphic file (type jpg)
 
 <use ./Images/lambsausage.jpg>
@@ -1158,7 +1160,7 @@ Overfull \hbox (529.23796pt too wide) has occurred while \output is active
 
  (./Chapters/Lunches.tex
 Chapter 2.
-) <./Images/SalmonVegetableRice.jpg, id=225, 1804.7425pt x 1155.31625pt>
+) <./Images/SalmonVegetableRice.jpg, id=245, 1804.7425pt x 1155.31625pt>
 File: ./Images/SalmonVegetableRice.jpg Graphic file (type jpg)
 
 <use ./Images/SalmonVegetableRice.jpg>
@@ -1178,7 +1180,7 @@ Overfull \hbox (722.53181pt too wide) has occurred while \output is active
 \openout2 = `./Recipes/Lunch/MexicanSoup.aux'.
 
  (./Recipes/Lunch/MexicanSoup.tex)
-<./Images/SpicyMexicanSoup.png, id=231, 597.23125pt x 595.22375pt>
+<./Images/SpicyMexicanSoup.png, id=251, 597.23125pt x 595.22375pt>
 File: ./Images/SpicyMexicanSoup.png Graphic file (type png)
 
 <use ./Images/SpicyMexicanSoup.png>
@@ -1197,7 +1199,7 @@ Overfull \hbox (250.42973pt too wide) has occurred while \output is active
 
 
 (./Recipes/Lunch/MangoSalsaTaco.tex)
-<./Images/MangeSalsaTacos.png, id=237, 597.23125pt x 593.21625pt>
+<./Images/MangeSalsaTacos.png, id=257, 597.23125pt x 593.21625pt>
 File: ./Images/MangeSalsaTacos.png Graphic file (type png)
 
 <use ./Images/MangeSalsaTacos.png>
@@ -1216,7 +1218,7 @@ Overfull \hbox (253.29121pt too wide) has occurred while \output is active
 
 
 (./Recipes/Lunch/StirFryRiceNoodle.tex)
-<./Images/StirFry_RiceNoodles.png, id=242, 602.25pt x 407.5225pt>
+<./Images/StirFry_RiceNoodles.png, id=262, 602.25pt x 407.5225pt>
 File: ./Images/StirFry_RiceNoodles.png Graphic file (type png)
 
 <use ./Images/StirFry_RiceNoodles.png>
@@ -1236,7 +1238,7 @@ Overfull \hbox (651.39322pt too wide) has occurred while \output is active
 
 
 (./Recipes/Lunch/SteakSandwich.tex)
-<./Images/SteakSandwich.png, id=247, 481.04718pt x 640.64343pt>
+<./Images/SteakSandwich.png, id=267, 481.04718pt x 640.64343pt>
 File: ./Images/SteakSandwich.png Graphic file (type png)
 
 <use ./Images/SteakSandwich.png>
@@ -1254,7 +1256,7 @@ Overfull \hbox (37.03596pt too wide) has occurred while \output is active
 \openout2 = `./Recipes/Lunch/Pizza.aux'.
 
  (./Recipes/Lunch/Pizza.tex)
-<./Images/Pizza.jpg, id=255, 3276.24pt x 2457.18pt>
+<./Images/Pizza.jpg, id=275, 3276.24pt x 2457.18pt>
 File: ./Images/Pizza.jpg Graphic file (type jpg)
  <use ./Images/Pizza.jpg>
 Package pdftex.def Info: ./Images/Pizza.jpg used on input line 52.
@@ -1272,7 +1274,7 @@ Overfull \hbox (529.19681pt too wide) has occurred while \output is active
 
  (./Chapters/Dinners.tex
 Chapter 3.
-) <./Images/Steak.jpg, id=261, 658.46pt x 722.7pt>
+) <./Images/Steak.jpg, id=281, 658.46pt x 722.7pt>
 File: ./Images/Steak.jpg Graphic file (type jpg)
  <use ./Images/Steak.jpg>
 Package pdftex.def Info: ./Images/Steak.jpg used on input line 55.
@@ -1290,7 +1292,7 @@ Overfull \hbox (172.43512pt too wide) has occurred while \output is active
 \openout2 = `./Recipes/Dinner/Calzone.aux'.
 
  (./Recipes/Dinner/Calzone.tex)
-<./Images/Calzone.jpg, id=267, 653.44125pt x 722.7pt>
+<./Images/Calzone.jpg, id=287, 653.44125pt x 722.7pt>
 File: ./Images/Calzone.jpg Graphic file (type jpg)
 
 <use ./Images/Calzone.jpg>
@@ -1312,7 +1314,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--19
 []$[]$ \OT1/cmr/m/n/10.95 cup parme-san/romano
  []
 
-) <./Images/Alfredo.png, id=272, 597.23125pt x 596.2275pt>
+) <./Images/Alfredo.png, id=292, 597.23125pt x 596.2275pt>
 File: ./Images/Alfredo.png Graphic file (type png)
 
 <use ./Images/Alfredo.png>
@@ -1331,7 +1333,7 @@ Overfull \hbox (249.0081pt too wide) has occurred while \output is active
 
 
 (./Recipes/Dinner/MarinatedChickenAndVeggies.tex)
-<./Images/chickenveggiesrice.jpg, id=277, 1023.07219pt x 868.74562pt>
+<./Images/chickenveggiesrice.jpg, id=297, 1023.07219pt x 868.74562pt>
 File: ./Images/chickenveggiesrice.jpg Graphic file (type jpg)
 
 <use ./Images/chickenveggiesrice.jpg>
@@ -1350,7 +1352,7 @@ Overfull \hbox (397.71214pt too wide) has occurred while \output is active
 \openout2 = `./Recipes/Dinner/Lasagna.aux'.
 
  (./Recipes/Dinner/Lasagna.tex)
-<./Images/Lasagna.jpg, id=282, 3276.24pt x 2457.18pt>
+<./Images/Lasagna.jpg, id=302, 3276.24pt x 2457.18pt>
 File: ./Images/Lasagna.jpg Graphic file (type jpg)
 
 <use ./Images/Lasagna.jpg>
@@ -1368,7 +1370,7 @@ Overfull \hbox (529.19681pt too wide) has occurred while \output is active
 \openout2 = `./Recipes/Dinner/VenisonBBQ.aux'.
 
  (./Recipes/Dinner/VenisonBBQ.tex)
-<./Images/VenisonBBQSauce.jpg, id=289, 615.80063pt x 542.025pt>
+<./Images/VenisonBBQSauce.jpg, id=309, 615.80063pt x 542.025pt>
 File: ./Images/VenisonBBQSauce.jpg Graphic file (type jpg)
 
 <use ./Images/VenisonBBQSauce.jpg>
@@ -1386,7 +1388,7 @@ Overfull \hbox (362.59225pt too wide) has occurred while \output is active
 \openout2 = `./Recipes/Dinner/SalmonSalad.aux'.
 
  (./Recipes/Dinner/SalmonSalad.tex)
-<./Images/SalmonSalad.jpg, id=295, 2888.7925pt x 2457.18pt>
+<./Images/SalmonSalad.jpg, id=316, 2888.7925pt x 2457.18pt>
 File: ./Images/SalmonSalad.jpg Graphic file (type jpg)
 
 <use ./Images/SalmonSalad.jpg>
@@ -1404,7 +1406,7 @@ Overfull \hbox (395.95293pt too wide) has occurred while \output is active
 \openout2 = `./Recipes/Dinner/QuinoaPatties.aux'.
 
  (./Recipes/Dinner/QuinoaPatties.tex)
-<./Images/QuinoaPatties.jpg, id=301, 3276.24pt x 2457.18pt>
+<./Images/QuinoaPatties.jpg, id=322, 3276.24pt x 2457.18pt>
 File: ./Images/QuinoaPatties.jpg Graphic file (type jpg)
 
 <use ./Images/QuinoaPatties.jpg>
@@ -1419,22 +1421,58 @@ Overfull \hbox (529.19681pt too wide) has occurred while \output is active
 
 
  <./Images/QuinoaPatties.jpg>]
+\openout2 = `./Recipes/Dinner/BisonBurgers.aux'.
+
+ (./Recipes/Dinner/BisonBurgers.tex)
+<./Images/bisonburger.jpg, id=327, 963.6pt x 867.24pt>
+File: ./Images/bisonburger.jpg Graphic file (type jpg)
+
+<use ./Images/bisonburger.jpg>
+Package pdftex.def Info: ./Images/bisonburger.jpg used on input line 63.
+(pdftex.def)             Requested size: 938.98427pt x 845.04684pt.
+
+Overfull \hbox (341.4764pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[19
+
+
+ <./Images/bisonburger.jpg>]
+\openout2 = `./Recipes/Dinner/RoastTurkey.aux'.
+
+ (./Recipes/Dinner/RoastTurkey.tex)
+<./Images/Turkey2.jpg, id=332, 2466.21375pt x 2457.18pt>
+File: ./Images/Turkey2.jpg Graphic file (type jpg)
+
+<use ./Images/Turkey2.jpg>
+Package pdftex.def Info: ./Images/Turkey2.jpg used on input line 64.
+(pdftex.def)             Requested size: 848.13522pt x 845.04684pt.
+
+Overfull \hbox (250.62735pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[20
+
+
+ <./Images/Turkey2.jpg>]
 \openout2 = `./Chapters/Snacks.aux'.
 
  (./Chapters/Snacks.tex
 Chapter 4.
-) <./Images/FruitBowl.jpg, id=306, 2059.695pt x 2457.18pt>
+) <./Images/FruitBowl.jpg, id=337, 2059.695pt x 2457.18pt>
 File: ./Images/FruitBowl.jpg Graphic file (type jpg)
 
 <use ./Images/FruitBowl.jpg>
-Package pdftex.def Info: ./Images/FruitBowl.jpg used on input line 66.
+Package pdftex.def Info: ./Images/FruitBowl.jpg used on input line 67.
 (pdftex.def)             Requested size: 708.33272pt x 845.04684pt.
 
 Overfull \hbox (110.82484pt too wide) has occurred while \output is active
  [][][] 
  []
 
-[19
+[21
 
 
 
@@ -1442,109 +1480,144 @@ Overfull \hbox (110.82484pt too wide) has occurred while \output is active
 \openout2 = `./Recipes/Snacks/FruitMedley.aux'.
 
  (./Recipes/Snacks/FruitMedley.tex)
-<./Images/FruitMedley.jpg, id=312, 642.4pt x 481.8pt>
+<./Images/FruitMedley.jpg, id=343, 642.4pt x 481.8pt>
 File: ./Images/FruitMedley.jpg Graphic file (type jpg)
 
 <use ./Images/FruitMedley.jpg>
-Package pdftex.def Info: ./Images/FruitMedley.jpg used on input line 67.
+Package pdftex.def Info: ./Images/FruitMedley.jpg used on input line 68.
 (pdftex.def)             Requested size: 1126.83406pt x 845.04684pt.
 
 Overfull \hbox (529.32619pt too wide) has occurred while \output is active
  [][][] 
  []
 
-[20
+[22
 
 
  <./Images/FruitMedley.jpg>]
 \openout2 = `./Recipes/Snacks/LemonPoppyseed.aux'.
 
  (./Recipes/Snacks/LemonPoppyseed.tex)
-<./Images/LemonPoppyseed.jpg, id=317, 2186.1675pt x 1842.885pt>
+<./Images/LemonPoppyseed.jpg, id=348, 2186.1675pt x 1842.885pt>
 File: ./Images/LemonPoppyseed.jpg Graphic file (type jpg)
 
 <use ./Images/LemonPoppyseed.jpg>
-Package pdftex.def Info: ./Images/LemonPoppyseed.jpg used on input line 68.
+Package pdftex.def Info: ./Images/LemonPoppyseed.jpg used on input line 69.
 (pdftex.def)             Requested size: 1002.44688pt x 845.04684pt.
 
 Overfull \hbox (404.93901pt too wide) has occurred while \output is active
  [][][] 
  []
 
-[21
+[23
 
 
  <./Images/LemonPoppyseed.jpg>]
 \openout2 = `./Recipes/Snacks/TortillaChips.aux'.
 
  (./Recipes/Snacks/TortillaChips.tex)
-<./Images/TortillaChips.jpg, id=323, 2457.18pt x 3276.24pt>
+<./Images/TortillaChips.jpg, id=353, 2457.18pt x 3276.24pt>
 File: ./Images/TortillaChips.jpg Graphic file (type jpg)
 
 <use ./Images/TortillaChips.jpg>
-Package pdftex.def Info: ./Images/TortillaChips.jpg used on input line 69.
+Package pdftex.def Info: ./Images/TortillaChips.jpg used on input line 70.
 (pdftex.def)             Requested size: 633.79012pt x 845.04684pt.
 
 Overfull \hbox (36.28224pt too wide) has occurred while \output is active
- [][][] 
- []
-
-[22
-
-
- <./Images/TortillaChips.jpg>]
-\openout2 = `./Recipes/Snacks/MangoSalsa.aux'.
-
- (./Recipes/Snacks/MangoSalsa.tex)
-<./Images/MangoSalsa.jpg, id=328, 2457.18pt x 3276.24pt>
-File: ./Images/MangoSalsa.jpg Graphic file (type jpg)
-
-<use ./Images/MangoSalsa.jpg>
-Package pdftex.def Info: ./Images/MangoSalsa.jpg used on input line 70.
-(pdftex.def)             Requested size: 633.79012pt x 845.04684pt.
-
-Overfull \hbox (36.28224pt too wide) has occurred while \output is active
- [][][] 
- []
-
-[23
-
-
- <./Images/MangoSalsa.jpg>]
-\openout2 = `./Recipes/Snacks/StrawberrySalad.aux'.
-
- (./Recipes/Snacks/StrawberrySalad.tex)
-<./Images/StrawberrySalad.jpg, id=333, 2477.255pt x 2457.18pt>
-File: ./Images/StrawberrySalad.jpg Graphic file (type jpg)
-
-<use ./Images/StrawberrySalad.jpg>
-Package pdftex.def Info: ./Images/StrawberrySalad.jpg used on input line 71.
-(pdftex.def)             Requested size: 851.93233pt x 845.04684pt.
-
-Overfull \hbox (254.42445pt too wide) has occurred while \output is active
  [][][] 
  []
 
 [24
 
 
+ <./Images/TortillaChips.jpg>]
+\openout2 = `./Recipes/Snacks/MangoSalsa.aux'.
+
+ (./Recipes/Snacks/MangoSalsa.tex)
+<./Images/MangoSalsa.jpg, id=358, 2457.18pt x 3276.24pt>
+File: ./Images/MangoSalsa.jpg Graphic file (type jpg)
+
+<use ./Images/MangoSalsa.jpg>
+Package pdftex.def Info: ./Images/MangoSalsa.jpg used on input line 71.
+(pdftex.def)             Requested size: 633.79012pt x 845.04684pt.
+
+Overfull \hbox (36.28224pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[25
+
+
+ <./Images/MangoSalsa.jpg>]
+\openout2 = `./Recipes/Snacks/StrawberrySalad.aux'.
+
+ (./Recipes/Snacks/StrawberrySalad.tex)
+<./Images/StrawberrySalad.jpg, id=363, 2477.255pt x 2457.18pt>
+File: ./Images/StrawberrySalad.jpg Graphic file (type jpg)
+
+<use ./Images/StrawberrySalad.jpg>
+Package pdftex.def Info: ./Images/StrawberrySalad.jpg used on input line 72.
+(pdftex.def)             Requested size: 851.93233pt x 845.04684pt.
+
+Overfull \hbox (254.42445pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[26
+
+
  <./Images/StrawberrySalad.jpg>]
-\openout2 = `./Chapters/Desserts.aux'.
+\openout2 = `./Recipes/Snacks/TunafishPate.aux'.
 
- (./Chapters/Desserts.tex
-Chapter 5.
-) <./Images/AppleTartLarge.jpg, id=339, 3276.24pt x 2457.18pt>
-File: ./Images/AppleTartLarge.jpg Graphic file (type jpg)
+ (./Recipes/Snacks/TunafishPate.tex)
+<./Images/TunaPate.jpg, id=368, 642.4pt x 481.8pt>
+File: ./Images/TunaPate.jpg Graphic file (type jpg)
+ <use ./Images/TunaPate.jpg>
+Package pdftex.def Info: ./Images/TunaPate.jpg used on input line 73.
+(pdftex.def)             Requested size: 1126.83406pt x 845.04684pt.
 
-<use ./Images/AppleTartLarge.jpg>
-Package pdftex.def Info: ./Images/AppleTartLarge.jpg used on input line 74.
+Overfull \hbox (529.32619pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[27
+
+
+ <./Images/TunaPate.jpg>]
+\openout2 = `./Recipes/Snacks/Cranberries.aux'.
+
+ (./Recipes/Snacks/Cranberries.tex)
+<./Images/CranberrySauce.jpg, id=375, 3276.24pt x 2457.18pt>
+File: ./Images/CranberrySauce.jpg Graphic file (type jpg)
+
+<use ./Images/CranberrySauce.jpg>
+Package pdftex.def Info: ./Images/CranberrySauce.jpg used on input line 74.
 (pdftex.def)             Requested size: 1126.70468pt x 845.04684pt.
 
 Overfull \hbox (529.19681pt too wide) has occurred while \output is active
  [][][] 
  []
 
-[25
+[28
+
+
+ <./Images/CranberrySauce.jpg>]
+\openout2 = `./Chapters/Desserts.aux'.
+
+ (./Chapters/Desserts.tex
+Chapter 5.
+) <./Images/AppleTartLarge.jpg, id=382, 3276.24pt x 2457.18pt>
+File: ./Images/AppleTartLarge.jpg Graphic file (type jpg)
+
+<use ./Images/AppleTartLarge.jpg>
+Package pdftex.def Info: ./Images/AppleTartLarge.jpg used on input line 77.
+(pdftex.def)             Requested size: 1126.70468pt x 845.04684pt.
+
+Overfull \hbox (529.19681pt too wide) has occurred while \output is active
+ [][][] 
+ []
+
+[29
 
 
 
@@ -1552,18 +1625,18 @@ Overfull \hbox (529.19681pt too wide) has occurred while \output is active
 \openout2 = `./Recipes/Dessert/Cheesecake.aux'.
 
  (./Recipes/Dessert/Cheesecake.tex)
-<./Images/MarbledCheesecake.png, id=345, 597.23125pt x 376.40625pt>
+<./Images/MarbledCheesecake.png, id=388, 597.23125pt x 376.40625pt>
 File: ./Images/MarbledCheesecake.png Graphic file (type png)
 
 <use ./Images/MarbledCheesecake.png>
-Package pdftex.def Info: ./Images/MarbledCheesecake.png used on input line 75.
+Package pdftex.def Info: ./Images/MarbledCheesecake.png used on input line 78.
 (pdftex.def)             Requested size: 1340.91463pt x 845.04684pt.
 
 Overfull \hbox (743.40675pt too wide) has occurred while \output is active
  [][][] 
  []
 
-[26
+[30
 
 
  <./Images/MarbledCheesecake.png (PNG copy)>]
@@ -1571,18 +1644,18 @@ Overfull \hbox (743.40675pt too wide) has occurred while \output is active
 
 
 (./Recipes/Dessert/AppleTart.tex)
-<./Images/AppleTartDesert.png, id=352, 592.2125pt x 593.21625pt>
+<./Images/AppleTartDesert.png, id=395, 592.2125pt x 593.21625pt>
 File: ./Images/AppleTartDesert.png Graphic file (type png)
 
 <use ./Images/AppleTartDesert.png>
-Package pdftex.def Info: ./Images/AppleTartDesert.png used on input line 76.
+Package pdftex.def Info: ./Images/AppleTartDesert.png used on input line 79.
 (pdftex.def)             Requested size: 843.64952pt x 845.04684pt.
 
 Overfull \hbox (246.14165pt too wide) has occurred while \output is active
  [][][] 
  []
 
-[27
+[31
 
 
  <./Images/AppleTartDesert.png (PNG copy)>]
@@ -1590,47 +1663,47 @@ Overfull \hbox (246.14165pt too wide) has occurred while \output is active
 
 
 (./Recipes/Dessert/ChocolateFruit.tex)
-<./Images/Strawberries.jpg, id=359, 2614.76875pt x 2456.17625pt>
+<./Images/Strawberries.jpg, id=401, 2614.76875pt x 2456.17625pt>
 File: ./Images/Strawberries.jpg Graphic file (type jpg)
 
 <use ./Images/Strawberries.jpg>
-Package pdftex.def Info: ./Images/Strawberries.jpg used on input line 77.
+Package pdftex.def Info: ./Images/Strawberries.jpg used on input line 80.
 (pdftex.def)             Requested size: 899.62253pt x 845.04684pt.
 
 Overfull \hbox (302.11465pt too wide) has occurred while \output is active
  [][][] 
  []
 
-[28
+[32
 
 
  <./Images/Strawberries.jpg>]
 \openout2 = `./Recipes/Dessert/SaffronIceCream.aux'.
 
  (./Recipes/Dessert/SaffronIceCream.tex)
-<./Images/SaffronIceCream.jpg, id=364, 2156.055pt x 1436.36626pt>
+<./Images/SaffronIceCream.jpg, id=406, 2156.055pt x 1436.36626pt>
 File: ./Images/SaffronIceCream.jpg Graphic file (type jpg)
 
 <use ./Images/SaffronIceCream.jpg>
-Package pdftex.def Info: ./Images/SaffronIceCream.jpg used on input line 78.
+Package pdftex.def Info: ./Images/SaffronIceCream.jpg used on input line 81.
 (pdftex.def)             Requested size: 1268.4755pt x 845.04684pt.
 
 Overfull \hbox (670.96762pt too wide) has occurred while \output is active
  [][][] 
  []
 
-[29
+[33
 
 
  <./Images/SaffronIceCream.jpg>]
 \openout2 = `./Recipes/Dessert/CinnimonAppleTart.aux'.
 
  (./Recipes/Dessert/CinnimonAppleTart.tex)
-<./Images/cinnamonapplepastry.jpg, id=369, 520.94624pt x 541.27219pt>
+<./Images/cinnamonapplepastry.jpg, id=412, 520.94624pt x 541.27219pt>
 File: ./Images/cinnamonapplepastry.jpg Graphic file (type jpg)
 
 <use ./Images/cinnamonapplepastry.jpg>
-Package pdftex.def Info: ./Images/cinnamonapplepastry.jpg used on input line 80
+Package pdftex.def Info: ./Images/cinnamonapplepastry.jpg used on input line 83
 .
 (pdftex.def)             Requested size: 813.3406pt x 845.04684pt.
 
@@ -1638,12 +1711,12 @@ Overfull \hbox (215.83273pt too wide) has occurred while \output is active
  [][][] 
  []
 
-[30
+[34
 
 
  <./Images/cinnamonapplepastry.jpg>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 93.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 93.
  (./Cookbook.aux
 (./Resources/Copywrite.aux) (./Chapters/Breakfasts.aux)
 (./Recipes/Breakfast/EggSandwich.aux) (./Recipes/Breakfast/LambSausages.aux)
@@ -1654,23 +1727,25 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
 (./Recipes/Dinner/Calzone.aux) (./Recipes/Dinner/Alfredo.aux)
 (./Recipes/Dinner/MarinatedChickenAndVeggies.aux) (./Recipes/Dinner/Lasagna.aux
 ) (./Recipes/Dinner/VenisonBBQ.aux) (./Recipes/Dinner/SalmonSalad.aux)
-(./Recipes/Dinner/QuinoaPatties.aux) (./Chapters/Snacks.aux)
+(./Recipes/Dinner/QuinoaPatties.aux) (./Recipes/Dinner/BisonBurgers.aux)
+(./Recipes/Dinner/RoastTurkey.aux) (./Chapters/Snacks.aux)
 (./Recipes/Snacks/FruitMedley.aux) (./Recipes/Snacks/LemonPoppyseed.aux)
 (./Recipes/Snacks/TortillaChips.aux) (./Recipes/Snacks/MangoSalsa.aux)
-(./Recipes/Snacks/StrawberrySalad.aux) (./Chapters/Desserts.aux)
+(./Recipes/Snacks/StrawberrySalad.aux) (./Recipes/Snacks/TunafishPate.aux)
+(./Recipes/Snacks/Cranberries.aux) (./Chapters/Desserts.aux)
 (./Recipes/Dessert/Cheesecake.aux) (./Recipes/Dessert/AppleTart.aux)
 (./Recipes/Dessert/ChocolateFruit.aux) (./Recipes/Dessert/SaffronIceCream.aux)
 (./Recipes/Dessert/CinnimonAppleTart.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 88.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 88.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 93.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 93.
 Package rerunfilecheck Info: File `Cookbook.out' has not changed.
-(rerunfilecheck)             Checksum: DD1660A5224C3FB0E336DD00BAFAA402;2164.
+(rerunfilecheck)             Checksum: 13F543F4615F277D269ACEE3E6348002;2407.
  ) 
 Here is how much of TeX's memory you used:
- 16051 strings out of 494953
- 286076 string characters out of 6180977
- 366349 words of memory out of 5000000
- 18901 multiletter control sequences out of 15000+600000
+ 16121 strings out of 494953
+ 287722 string characters out of 6180977
+ 368723 words of memory out of 5000000
+ 18934 multiletter control sequences out of 15000+600000
  11290 words of font info for 39 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  44i,13n,45p,10449b,344s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1686,10 +1761,10 @@ onts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on Cookbook.pdf (34 pages, 27607546 bytes).
+Output written on Cookbook.pdf (38 pages, 31012857 bytes).
 PDF statistics:
- 436 PDF objects out of 1000 (max. 8388607)
- 351 compressed objects within 4 object streams
- 75 named destinations out of 1000 (max. 500000)
- 412 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 482 PDF objects out of 1000 (max. 8388607)
+ 389 compressed objects within 4 object streams
+ 84 named destinations out of 1000 (max. 500000)
+ 464 words of extra memory for PDF output out of 10000 (max. 10000000)
 
