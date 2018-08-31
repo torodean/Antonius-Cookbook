@@ -21,7 +21,11 @@
 \clearpage
 \maketitle
 \include{./Resources/Copywrite}
-\tableofcontents
+
+	\begin{multicols}{2}
+		\tableofcontents
+	\end{multicols}
+
 \thispagestyle{fancy}
 \AddToShipoutPicture*{\lettuce}
 %\AddToShipoutPicture*{\towergardenn}
@@ -61,6 +65,8 @@
 
 %DINNERS
 \include{./Chapters/Dinners}
+\include{./Recipes/Dinner/ChickenParm}
+\include{./Recipes/Dinner/LambShoulder}
 \include{./Recipes/Dinner/Calzone}
 \include{./Recipes/Dinner/Alfredo}
 \include{./Recipes/Dinner/MarinatedChickenAndVeggies}
